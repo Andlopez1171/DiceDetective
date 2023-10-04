@@ -1,0 +1,3 @@
+# DiceDetective
+
+Semester Project
