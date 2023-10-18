@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Detective's Office.unity
+    guid: 291c98ccedb4b6a4a8e684145e45885d
+  - enabled: 1
+    path: Assets/Scenes/Battle.unity
+    guid: 4763d040c4107c2448b3d94397b270bf
   m_configObjects: {}
