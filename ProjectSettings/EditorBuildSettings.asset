@@ -9,9 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 6fc5acb7fbb637441885234a78a89baa
+  - enabled: 1
     path: Assets/Scenes/Detective's Office.unity
     guid: 291c98ccedb4b6a4a8e684145e45885d
   - enabled: 1
     path: Assets/Scenes/Battle.unity
     guid: 4763d040c4107c2448b3d94397b270bf
+  - enabled: 1
+    path: Assets/Scenes/House.unity
+    guid: a4d5a91e28eb9ee4b89f99f405b13391
+  - enabled: 1
+    path: Assets/Scenes/Police Car.unity
+    guid: 51943a186ba002549b8cd0191bbca828
   m_configObjects: {}
